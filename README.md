@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jjasira
+- 👋 Hi, I’m @jjasira a medical doctor and software engineer
 - 👀 I’m interested in machine learning, artificial intelligence and medicine
-- 🌱 I’m currently learning python programming, artificial intelligence and am a medical student n Kenya
+- 🌱 I’m currently learning python programming, artificial intelligence, full stack web development in ALX kenya.
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me email: jjasira2016@gmail.com
 
